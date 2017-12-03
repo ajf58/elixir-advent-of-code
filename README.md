@@ -1,6 +1,6 @@
 # AdventOfCode
 
-**TODO: Add description**
+Solutions to the [Advent of Code](https://adventofcode.com/) implemented using [Elixir](https://elixir-lang.org).
 
 ## Installation
 
